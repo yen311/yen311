@@ -4,9 +4,9 @@ I'm happy you are here on my github page.
 
 Feel free to contact me if you have anything would like to share with me 😀
 
-I'm the alumni from Portland State University (Degree in Finance 🏦)
+- I'm the alumni from Portland State University (Degree in Finance 🏦)
 
-I just graduated from Australian National University (Degree in Computer Science 💻)
+- I just graduated from Australian National University (Degree in Computer Science 💻)
 
 Familiar Languages: English && Chinese
 
