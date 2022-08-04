@@ -12,11 +12,13 @@ Feel free to contact me if you have anything would like to share with me 😀
 
 Familiar Languages: English && Chinese
 
-**REAL Languages** : Python && JavaScript && Typescript
+**REAL Languages** : Python && JavaScript && Typescript && Dart
 
-Frameworks || Tools : React && React Native
+Frameworks || Tools : Django && React && React Native && Flutter
 
-Current focusing: Django && Azure && Kubernetes
+Current focusing: Django && Azure && AWS
+
+Cureent Learning: K8s && Flutter && Golang
 
 
 
