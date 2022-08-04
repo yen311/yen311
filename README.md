@@ -4,11 +4,13 @@ I'm happy you are here on my github page.
 
 Feel free to contact me if you have anything would like to share with me 😀
 
+Here's my personal website: https://yen311.github.io/personal-website/#/home (Frontend: React, Backend: Django)
+
 - I'm the alumni from Portland State University (Degree in Finance 🏦)
 
 - I just graduated from Australian National University (Degree in Computer Science 💻)
 
-- Currtently a Software Developer in cloud consultant company based in Adelaide. 
+- Currtently a Full Stack Software Developer in cloud consultant company based in Adelaide. 
 
 Familiar Languages: English && Chinese
 
