@@ -6,11 +6,11 @@ Feel free to contact me if you have anything would like to share with me 😀
 
 Here's my personal website: https://yen311.github.io/personal-website/#/home (Frontend: React, Backend: Django)
 
-- I'm the alumni from Portland State University (Degree in Finance 🏦)
+- I'm the alumni from Portland State University (Bachelor Degree in Finance 🏦)
 
-- I just graduated from Australian National University (Degree in Computer Science 💻)
+- I just graduated from Australian National University (Master Degree in Computer Science 💻)
 
-- Currtently a Full Stack Software Developer in cloud consultant company based in Adelaide. 
+- Currtently a Full Stack Software Developer in cloud consulting company based in Adelaide. 
 
 Familiar Languages: English && Chinese
 
@@ -18,9 +18,9 @@ Familiar Languages: English && Chinese
 
 Frameworks || Tools : Django && React && React Native && Flutter
 
-Current focusing: Django && Azure && AWS
+Current focusing: Django && React && Flutter && Azure && AWS
 
-Cureent Learning: K8s && Flutter && Golang
+Things that attract me to learn in 2023: K8s && Golang && Graphql 
 
 
 
