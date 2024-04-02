@@ -14,13 +14,13 @@ Here's my personal website: https://yen311.github.io/personal-website/#/home (Fr
 
 Familiar Languages: English && Chinese
 
-**REAL Languages** : Python && JavaScript && Typescript && Dart
+**REAL Languages** : Python, JavaScript/Typescript, Dart, Swift
 
-Frameworks || Tools : Django && React && React Native && Flutter
+Frameworks : Django, React, Flutter, SwiftUI
 
-Current focusing: Django && React && Flutter && Azure && AWS
+Current focusing: Django, React, Azure, AWS
 
-Things that attract me to learn in 2023: K8s && Golang && Graphql 
+Things that attract me to learn in 2024: K8s && NextJs14 && Tailwind CSS && Graphql 
 
 
 
