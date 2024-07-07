@@ -4,7 +4,7 @@ I'm happy you are here on my github page.
 
 Feel free to contact me if you have anything would like to share with me 😀
 
-Here's my personal website: https://yen311.github.io/personal-website/#/home (Frontend: React, Backend: Django)
+Here's my personal website: https://www.yenkuo.org (Built by Next.js with Tailwind CSS, hosted by Amplify)
 
 - I'm the alumni from Portland State University (Bachelor Degree in Finance 🏦)
 
@@ -16,7 +16,7 @@ Familiar Languages: English && Chinese
 
 **REAL Languages** : Python, JavaScript/Typescript, Dart, Swift
 
-Frameworks : Django, React, Flutter, SwiftUI
+Frameworks : Django, React - Next.js, Flutter, SwiftUI
 
 Current focusing: Django, React, Azure, AWS
 
