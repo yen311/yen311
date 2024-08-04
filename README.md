@@ -20,7 +20,7 @@ Frameworks : Django, React - Next.js, Flutter, SwiftUI
 
 Current focusing: Django, React, Azure, AWS
 
-Things that attract me to learn in 2024: K8s && NextJs14 && Tailwind CSS && Graphql 
+Things that attract me to learn in 2024: K8s && NextJs14 && Tailwind CSS && .Net8 
 
 
 
