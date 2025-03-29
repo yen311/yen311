@@ -23,7 +23,7 @@ Current focusing: .NET, React, Azure, AWS
 Things that attract me to learn in 2024: K8s && NextJs14 && Tailwind CSS && .Net
 
 
-<img align="left" src="https://githubstats.yenkuo.org/api?username=yen311&show_icons=true&hide=contribs,issues&show=prs_merged&theme=merko&bg_color=00000000"/>
+<img align="left" src="https://githubstats.yenkuo.org/api?username=yen311&show_icons=true&hide=contribs,issues&show=prs_merged&theme=merko&bg_color=00000000&include_all_commits=true&count_private=true"/>
 
 
 
